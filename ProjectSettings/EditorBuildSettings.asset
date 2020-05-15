@@ -9,15 +9,15 @@ EditorBuildSettings:
     path: Assets/scene-MainMenu.unity
     guid: 2108cc66241be4c7d9e3d315ef0348e3
   - enabled: 0
-    path: Assets/__DELETED_GUID_Trash/4f097a00ceb8240c98f012e837a91514
-    guid: 4f097a00ceb8240c98f012e837a91514
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/__DELETED_GUID_Trash/099f3da89549b4cab84b59c9bb0e98b3
-    guid: 099f3da89549b4cab84b59c9bb0e98b3
-  - enabled: 1
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
     path: Assets/scene3.unity
     guid: 2cacf3a7de8ee4d2489420b3d5d61124
-  - enabled: 1
+  - enabled: 0
     path: Assets/scene4.unity
     guid: 7d80af8c388034c7caff5d3b3e363b2b
   - enabled: 1
