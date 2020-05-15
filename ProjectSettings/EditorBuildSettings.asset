@@ -20,16 +20,16 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/scene4.unity
     guid: 7d80af8c388034c7caff5d3b3e363b2b
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Scene1.unity
     guid: af03f46ace06fe74bb268c3b41a0bb74
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Scene2.unity
     guid: 3f77dcd4d8befb24c953263e66a9b524
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Snaps.unity
     guid: b9bb4122410ff6e408e296152abe6ffd
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Probuilder.unity
     guid: 187cb9523a186e1409aaec0365aa6089
   m_configObjects: {}
